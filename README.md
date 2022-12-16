@@ -26,5 +26,13 @@ tsunami" appears to refer specifically to the increasing number of older employe
 leaving the workforce.
 
 According to the data provided in this assignement there is an overwhelming amount PH employees retiring soon accross 
-the company. 
+the company. There are currently 240,124 employees working for the company of which 33,118 are currently eligable for retirement. 
+That accounts for about 13.8% of the total number of employees across the company. In order to prepare for this "silver tsunami" 
+the company has identified individuals to participate in a mentorship program help bridge the knowlege gaps that will be left
+behind by their departure. According to the data queried in the challenge assignment there are 1549 current employees that fit 
+the criteria for the mentorship program. This only represents less than 5% of the retirement eligible employees of the company. 
+PH will need to invest in a larger employee population for the mentorship program if they are looking to fill these soon vacant
+roles from this program. I would also begin to invest heavily into recruiting and optimizing performance to help bridge the cap 
+on the large number of upcoming vacancies. 
+
 
